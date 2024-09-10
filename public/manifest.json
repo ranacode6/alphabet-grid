@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Alphabet Grid",
+  "name": "It allows to explore letters with engaging animations.",
   "icons": [
     {
       "src": "favicon.ico",
